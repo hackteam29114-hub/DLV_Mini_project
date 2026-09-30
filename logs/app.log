@@ -1,0 +1,86 @@
+2026-09-28 10:00:37,029 [INFO] main: Application startup complete. Database initialized at C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\outputs\detections.db
+2026-09-28 10:00:47,805 [INFO] vehicle_detector: yolov8n.pt not found locally. Ultralytics will download it automatically on first run (requires an internet connection one time only).
+2026-09-28 10:00:54,079 [INFO] vehicle_detector: Detector initialized. Device=cpu, model=C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\backend\models\yolov8n.pt
+2026-09-28 10:00:55,460 [INFO] video_processor: Started processing source=0
+2026-09-28 10:16:31,744 [INFO] main: Application startup complete. Database initialized at C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\outputs\detections.db
+2026-09-28 10:17:34,645 [INFO] main: Video uploaded: C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\uploads\b86672dada9e479b8b352df8c2239268.mp4
+2026-09-28 10:17:37,406 [INFO] vehicle_detector: yolov8n.pt not found locally. Ultralytics will download it automatically on first run (requires an internet connection one time only).
+2026-09-28 10:17:38,341 [INFO] vehicle_detector: Detector initialized. Device=cpu, model=C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\backend\models\yolov8n.pt
+2026-09-28 10:17:38,968 [INFO] video_processor: Started processing source=C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\uploads\b86672dada9e479b8b352df8c2239268.mp4
+2026-09-28 10:17:50,451 [INFO] vehicle_counter: Counted vehicle: {'time': '10:17:50', 'track_id': 14, 'vehicle_type': 'car', 'confidence': 40.7, 'direction': 'Down'}
+2026-09-28 10:17:51,442 [INFO] vehicle_counter: Counted vehicle: {'time': '10:17:51', 'track_id': 22, 'vehicle_type': 'car', 'confidence': 42.7, 'direction': 'Down'}
+2026-09-28 10:17:52,931 [INFO] vehicle_counter: Counted vehicle: {'time': '10:17:52', 'track_id': 29, 'vehicle_type': 'car', 'confidence': 51.0, 'direction': 'Down'}
+2026-09-28 10:17:56,381 [INFO] vehicle_counter: Counted vehicle: {'time': '10:17:56', 'track_id': 39, 'vehicle_type': 'car', 'confidence': 43.9, 'direction': 'Down'}
+2026-09-28 10:17:57,040 [INFO] vehicle_counter: Counted vehicle: {'time': '10:17:57', 'track_id': 57, 'vehicle_type': 'car', 'confidence': 42.0, 'direction': 'Down'}
+2026-09-28 10:17:58,199 [INFO] vehicle_counter: Counted vehicle: {'time': '10:17:58', 'track_id': 52, 'vehicle_type': 'car', 'confidence': 60.5, 'direction': 'Down'}
+2026-09-28 10:18:00,394 [INFO] vehicle_counter: Counted vehicle: {'time': '10:18:00', 'track_id': 73, 'vehicle_type': 'car', 'confidence': 59.6, 'direction': 'Down'}
+2026-09-28 10:18:01,529 [INFO] vehicle_counter: Counted vehicle: {'time': '10:18:01', 'track_id': 77, 'vehicle_type': 'car', 'confidence': 45.5, 'direction': 'Down'}
+2026-09-28 10:18:09,092 [INFO] vehicle_counter: Counted vehicle: {'time': '10:18:09', 'track_id': 139, 'vehicle_type': 'car', 'confidence': 40.2, 'direction': 'Down'}
+2026-09-28 10:18:09,957 [INFO] vehicle_counter: Counted vehicle: {'time': '10:18:09', 'track_id': 110, 'vehicle_type': 'car', 'confidence': 50.7, 'direction': 'Up'}
+2026-09-28 10:18:13,687 [INFO] vehicle_counter: Counted vehicle: {'time': '10:18:13', 'track_id': 165, 'vehicle_type': 'car', 'confidence': 52.0, 'direction': 'Down'}
+2026-09-28 10:18:18,073 [INFO] vehicle_counter: Counted vehicle: {'time': '10:18:18', 'track_id': 191, 'vehicle_type': 'car', 'confidence': 40.5, 'direction': 'Down'}
+2026-09-28 10:18:19,140 [INFO] vehicle_counter: Counted vehicle: {'time': '10:18:19', 'track_id': 182, 'vehicle_type': 'car', 'confidence': 40.1, 'direction': 'Down'}
+2026-09-28 10:18:20,132 [INFO] vehicle_counter: Counted vehicle: {'time': '10:18:20', 'track_id': 190, 'vehicle_type': 'car', 'confidence': 40.8, 'direction': 'Down'}
+2026-09-28 10:18:20,217 [INFO] vehicle_counter: Counted vehicle: {'time': '10:18:20', 'track_id': 205, 'vehicle_type': 'car', 'confidence': 56.1, 'direction': 'Down'}
+2026-09-28 10:18:21,444 [INFO] vehicle_counter: Counted vehicle: {'time': '10:18:21', 'track_id': 231, 'vehicle_type': 'car', 'confidence': 69.7, 'direction': 'Down'}
+2026-09-28 10:18:26,824 [INFO] vehicle_counter: Counted vehicle: {'time': '10:18:26', 'track_id': 152, 'vehicle_type': 'car', 'confidence': 41.7, 'direction': 'Up'}
+2026-09-28 10:18:27,617 [INFO] vehicle_counter: Counted vehicle: {'time': '10:18:27', 'track_id': 251, 'vehicle_type': 'car', 'confidence': 44.0, 'direction': 'Down'}
+2026-09-28 10:18:28,337 [INFO] vehicle_counter: Counted vehicle: {'time': '10:18:28', 'track_id': 257, 'vehicle_type': 'car', 'confidence': 40.9, 'direction': 'Down'}
+2026-09-28 10:18:30,899 [INFO] vehicle_counter: Counted vehicle: {'time': '10:18:30', 'track_id': 125, 'vehicle_type': 'car', 'confidence': 54.8, 'direction': 'Up'}
+2026-09-28 10:18:33,467 [INFO] vehicle_counter: Counted vehicle: {'time': '10:18:33', 'track_id': 295, 'vehicle_type': 'car', 'confidence': 44.2, 'direction': 'Down'}
+2026-09-28 10:18:34,977 [INFO] vehicle_counter: Counted vehicle: {'time': '10:18:34', 'track_id': 291, 'vehicle_type': 'car', 'confidence': 42.9, 'direction': 'Down'}
+2026-09-28 10:18:37,338 [INFO] video_processor: Reached end of uploaded video.
+2026-09-28 10:18:59,599 [INFO] vehicle_counter: Counter state reset.
+2026-09-28 10:19:02,303 [INFO] video_processor: Started processing source=0
+2026-09-28 10:22:43,865 [INFO] vehicle_counter: Counted vehicle: {'time': '10:22:43', 'track_id': 370, 'vehicle_type': 'bus', 'confidence': 88.2, 'direction': 'Down'}
+2026-09-28 10:23:51,558 [INFO] video_processor: Processing stopped.
+2026-09-28 10:24:00,234 [INFO] video_processor: Started processing source=C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\uploads\b86672dada9e479b8b352df8c2239268.mp4
+2026-09-28 10:24:07,662 [INFO] vehicle_counter: Counted vehicle: {'time': '10:24:07', 'track_id': 392, 'vehicle_type': 'car', 'confidence': 40.7, 'direction': 'Down'}
+2026-09-28 10:24:08,894 [INFO] vehicle_counter: Counted vehicle: {'time': '10:24:08', 'track_id': 400, 'vehicle_type': 'car', 'confidence': 42.7, 'direction': 'Down'}
+2026-09-28 10:24:10,352 [INFO] vehicle_counter: Counted vehicle: {'time': '10:24:10', 'track_id': 407, 'vehicle_type': 'car', 'confidence': 51.0, 'direction': 'Down'}
+2026-09-28 10:24:10,470 [INFO] video_processor: Processing stopped.
+2026-09-28 10:25:36,278 [INFO] main: Video uploaded: C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\uploads\63f43da4f69c4278a5ab22997c6e9c83.mp4
+2026-09-28 10:25:37,490 [INFO] video_processor: Started processing source=C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\uploads\63f43da4f69c4278a5ab22997c6e9c83.mp4
+2026-09-28 10:26:31,050 [INFO] video_processor: Reached end of uploaded video.
+2026-09-28 10:27:50,330 [INFO] main: Video uploaded: C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\uploads\11daf5a63edc4b92be348aea7799b19e.mp4
+2026-09-28 10:27:51,130 [INFO] video_processor: Started processing source=C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\uploads\11daf5a63edc4b92be348aea7799b19e.mp4
+2026-09-28 10:28:35,590 [INFO] video_processor: Reached end of uploaded video.
+2026-09-28 10:28:55,866 [INFO] video_processor: Processing stopped.
+2026-09-28 10:34:10,924 [INFO] main: Application startup complete. Database initialized at C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\outputs\detections.db
+2026-09-28 12:43:28,990 [INFO] main: Application startup complete. Database initialized at C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\outputs\detections.db
+2026-09-28 12:44:22,248 [INFO] vehicle_detector: yolov8n.pt not found locally. Ultralytics will download it automatically on first run (requires an internet connection one time only).
+2026-09-28 12:44:22,423 [INFO] vehicle_detector: Detector initialized. Device=cpu, model=C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\backend\models\yolov8n.pt
+2026-09-28 12:44:23,851 [INFO] video_processor: Started processing source=0
+2026-09-28 12:44:54,978 [INFO] main: Video uploaded: C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\uploads\bb4bf1a5be2f44d1a3c69fa3c261dd2f.mp4
+2026-09-28 12:44:56,394 [INFO] video_processor: Processing stopped.
+2026-09-28 12:44:57,660 [INFO] video_processor: Started processing source=C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\uploads\bb4bf1a5be2f44d1a3c69fa3c261dd2f.mp4
+2026-09-28 12:46:28,861 [INFO] video_processor: Reached end of uploaded video.
+2026-09-28 12:46:30,849 [INFO] main: Video uploaded: C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\uploads\5d2b629cf4994dfa990700930e0e1fd8.mp4
+2026-09-28 12:46:32,063 [INFO] video_processor: Started processing source=C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\uploads\5d2b629cf4994dfa990700930e0e1fd8.mp4
+2026-09-28 12:47:42,723 [INFO] video_processor: Reached end of uploaded video.
+2026-09-28 12:47:53,161 [INFO] video_processor: Processing stopped.
+2026-09-28 14:31:28,638 [INFO] main: Application startup complete. Database initialized at C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\outputs\detections.db
+2026-09-28 14:32:29,735 [INFO] vehicle_detector: yolov8n.pt not found locally. Ultralytics will download it automatically on first run (requires an internet connection one time only).
+2026-09-28 14:32:29,960 [INFO] vehicle_detector: Detector initialized. Device=cpu, model=C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\backend\models\yolov8n.pt
+2026-09-28 14:32:31,221 [INFO] video_processor: Started processing source=0
+2026-09-28 14:33:08,297 [INFO] video_processor: Processing stopped.
+2026-09-28 14:33:16,941 [INFO] main: Video uploaded: C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\uploads\2e7586e3dc62471bad806268423ddfd6.mp4
+2026-09-28 14:33:17,523 [INFO] video_processor: Started processing source=C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\uploads\2e7586e3dc62471bad806268423ddfd6.mp4
+2026-09-28 14:34:18,301 [INFO] main: Application startup complete. Database initialized at C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\outputs\detections.db
+2026-09-28 14:35:00,067 [INFO] vehicle_detector: yolov8n.pt not found locally. Ultralytics will download it automatically on first run (requires an internet connection one time only).
+2026-09-28 14:35:00,260 [INFO] vehicle_detector: Detector initialized. Device=cpu, model=C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\backend\models\yolov8n.pt
+2026-09-28 14:35:01,284 [INFO] video_processor: Started processing source=0
+2026-09-28 14:35:11,946 [INFO] video_processor: Processing stopped.
+2026-09-29 12:36:34,046 [INFO] main: Application startup complete. Database initialized at C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\outputs\detections.db
+2026-09-29 12:38:04,208 [INFO] vehicle_detector: yolov8n.pt not found locally. Ultralytics will download it automatically on first run (requires an internet connection one time only).
+2026-09-29 12:38:04,340 [INFO] vehicle_detector: Detector initialized. Device=cpu, model=C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\backend\models\yolov8n.pt
+2026-09-29 12:38:05,296 [INFO] video_processor: Started processing source=0
+2026-09-29 12:38:45,568 [INFO] video_processor: Processing stopped.
+2026-09-29 12:38:49,960 [INFO] video_processor: Processing stopped.
+2026-09-30 12:53:52,310 [INFO] main: Application startup complete. Database initialized at C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\outputs\detections.db
+2026-09-30 12:54:04,149 [INFO] main: Video uploaded: C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\uploads\f0bc1b9b503a448aa2efb99d2b1a5e3f.mp4
+2026-09-30 12:54:05,325 [INFO] vehicle_detector: yolov8n.pt not found locally. Ultralytics will download it automatically on first run (requires an internet connection one time only).
+2026-09-30 12:54:05,503 [INFO] vehicle_detector: Detector initialized. Device=cpu, model=C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\backend\models\yolov8n.pt
+2026-09-30 12:54:05,726 [INFO] video_processor: Started processing source=C:\Users\acer\Downloads\vehicle-detection-counter (2)\vehicle-detection-counter\uploads\f0bc1b9b503a448aa2efb99d2b1a5e3f.mp4
+2026-09-30 12:55:04,508 [INFO] video_processor: Processing stopped.
+2026-09-30 12:58:44,086 [INFO] video_processor: Processing stopped.
